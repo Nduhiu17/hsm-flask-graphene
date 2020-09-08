@@ -16,10 +16,8 @@ This Application is developed using python pure [Flask](http://flask.pocoo.org/d
 - [Pylint](https://www.pylint.org/) (Linting library)
 - [Pip3](https://pypi.org/project/pip/) (Python package installer)
 
-### Graphql
+### Graphql - Test Url
 - `http://localhost:5000/graphql`                          
-
-#1## Getting Started with version two:
 
 **To start the app, please follow the instructions below:**
 
